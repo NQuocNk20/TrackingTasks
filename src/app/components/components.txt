@@ -1,0 +1,4 @@
+// Folder này sẽ chứa các thành phần components dùng chung của tất cả các trang web, vd:
+//      - Navbar (thanh điều hướng nằm NGANG ở trên cùng của trang web)
+//      - Sidebar (thanh điều hướng nằm bên TRÁI của trang web)
+//      - ...

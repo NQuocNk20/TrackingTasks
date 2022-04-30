@@ -1,0 +1,3 @@
+// Folder này chứa các model (class, interface) được sử dụng trong trang web
+// Cash đặt tên: tênmodel.model.ts
+//      -vd: Item.model.ts, User.model.ts,...

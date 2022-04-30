@@ -1,0 +1,4 @@
+// Folder này sẽ chứa các trang của trang web (ở dạng: module_lazy-loading)
+//      -vd: Langding page, home page, note page, tracking page, login page,...
+//      - Mỗi page có các thành phần được lập lại có thể tách thành 
+        một folder component con để chứa các components đó (như hình mẫu gửi trên group)
