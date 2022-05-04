@@ -58,7 +58,7 @@
               <h2 class="head-title">DONE <span *ngIf="done.length > 0"> - {{done.length}}</span></h2>
 
               <div cdkDropList [cdkDropListData]="done" class="example-list" (cdkDropListDropped)="drop($event)">
-                <div class="example-box" *ngFor="let item of done; let i = index" cdkDrag> {{ item.description }}
+                <div  class="example-box" *ngFor="let item of done; let i = index" cdkDrag> {{ item.description }}
                     <div class="box">
                         <button mat-icon-button color="warn" (click)="deleteDoneTask(i)"><mat-icon>delete</mat-icon></button>
                         <button mat-icon-button color="accent"><mat-icon>check_circle</mat-icon></button>
